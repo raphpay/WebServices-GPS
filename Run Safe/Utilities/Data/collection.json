@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "type": "featured",
+    "title": "Trails",
+    "races": [
+      {
+        "id": 1,
+        "name": "Trail des 2 Rivières",
+        "date": "04/04/2020",
+        "place": "St-Joseph",
+        "startTime": "5:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 42,
+        "backgroundImage": "trail"
+      },
+      {
+        "id": 2,
+        "name": "Trail de la Griffe du Diable",
+        "date": "11/04/2020",
+        "place": "Ste-Rose",
+        "startTime": "7:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 30,
+        "backgroundImage": "trail"
+      },
+      {
+        "id": 3,
+        "name": "Trail du Volcan",
+        "date": "01/05/2020",
+        "place": "La Plaine des Cafres",
+        "startTime": "7:30am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 21,
+        "backgroundImage": "trail"
+      },
+      {
+        "id": 4,
+        "name": "Trail du Piton des Neiges",
+        "date": "03/05/2020",
+        "place": "Cilaos",
+        "startTime": "7:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 17,
+        "backgroundImage": "trail"
+      },
+      {
+        "id": 5,
+        "name": "Course Papangue",
+        "date": "08/05/2020",
+        "place": "Les Avirons",
+        "startTime": "7:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 17,
+        "backgroundImage": "trail"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "featured",
+    "title": "X-Country",
+    "races": [
+      {
+        "id": 6,
+        "name": "X-Country Domaine Vidot",
+        "date": "12/04/2020",
+        "place": "St-Pierre",
+        "startTime": "5:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 42,
+        "backgroundImage": "mtb"
+      },
+      {
+        "id": 7,
+        "name": "X-Country de la Savane",
+        "date": "26/04/2020",
+        "place": "Saint-Paul",
+        "startTime": "7:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 17,
+        "backgroundImage": "mtb"
+      },
+      {
+        "id": 8,
+        "name": "X-Country de St-François",
+        "date": "26/04/2020",
+        "place": "Bras-Panon",
+        "startTime": "7:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 17,
+        "backgroundImage": "mtb"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "featured",
+    "title": "DH",
+    "races": [
+      {
+        "id": 9,
+        "name": "DH Le Plate",
+        "date": "29/03/2020",
+        "place": "St-Leu",
+        "startTime": "5:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 42,
+        "backgroundImage": "dh"
+      },
+      {
+        "id": 10,
+        "name": "DH Papangue",
+        "date": "19/04/2020",
+        "place": "St-Leu",
+        "startTime": "5:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 42,
+        "backgroundImage": "dh"
+      },
+      {
+        "id": 11,
+        "name": "DH ACPR La Montagne",
+        "date": "19/04/2020",
+        "place": "St-Denis",
+        "startTime": "5:00am",
+        "startLatitude" : 43.41604,
+        "startLongitude" : 5.21453,
+        "finishLatitude": 43.6402,
+        "finishLongitude": 5.097,
+        "distance": 42,
+        "backgroundImage": "dh"
+      }
+    ]
+  }
+]

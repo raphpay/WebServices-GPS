@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Julie",
+    "lastName": "Pacull",
+    "latitude": -21.13357,
+    "longitude": 55.4719
+  },
+  {
+    "firstName": "Raphael",
+    "lastName": "Payet",
+    "latitude": -21.0499,
+    "longitude": 55.4272
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Bob",
+    "latitude": 43.5507,
+    "longitude": 5.0345
+  },
+  {
+    "firstName": "Truc",
+    "lastName": "Muche",
+    "latitude": 43.4586,
+    "longitude": 5.2497
+  }
+]
